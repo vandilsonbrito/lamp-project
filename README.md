@@ -1,4 +1,4 @@
 # lamp-project
 
-Lamp Project - Practicing Front-end
+Lamp Project - Practicing DOM events
 
